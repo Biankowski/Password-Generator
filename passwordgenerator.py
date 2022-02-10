@@ -65,7 +65,7 @@ def strong_password():
     print("")    
 
 # Prompt the user to get the password length
-choice = input("Type the number of characters you want your password to have: 6 caracters(weak), 12 caracters(medium), 18 caracters(strong): ")
+choice = input("Type the number of characters you want your password to have: 6 characters(weak), 12 characters(medium), 18 characters(strong): ")
 print("")
 
 if choice == '6':
